@@ -150,9 +150,9 @@ Where:
 If you use this code or findings in your research, please cite:
 
 ```bibtex
-@article{khajuria2025dna,
+@article{khajuriaArnav2025dna,
   title={Optimizing DNA Sequence Alignment Using the KMP Algorithm, Boyer-Moore, and Rabin-Karp},
-  author={Khajuria, Arnav and Sharma, Jagmohan and Nargotra, Arnav},
+  author={Arnav Khajuria, Jagmohan Sharma, Arnav Nargotra},
   journal={MIET CSE Department},
   year={2025}
 }
@@ -176,8 +176,6 @@ This project is available for academic and research purposes.
 
 For questions or collaboration:
 - Arnav Khajuria
-- Jagmohan Sharma
-- Arnav Nargotra
 
 Department of Computer Science & Engineering, MIET
 
