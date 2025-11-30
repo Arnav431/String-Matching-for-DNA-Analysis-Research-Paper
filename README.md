@@ -1,5 +1,4 @@
 # DNA Pattern Matching: KMP, Boyer-Moore, and Rabin-Karp
-# DNA Pattern Matching: KMP, Boyer-Moore, and Rabin-Karp
 
 A comparative analysis of three classical string-matching algorithms applied to DNA sequence alignment.
 
